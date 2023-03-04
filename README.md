@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ### This is Daksh Goel 
-- [ ] Item 1
+- [x] Item 1
 - [ ] Item 2
 - [ ] Item 3
 
