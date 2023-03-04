@@ -1,8 +1,6 @@
 ## Hi there 👋 
 ### This is Daksh Goel 
-- [x] Item 1
-- [ ] Item 2
-- [ ] Item 3
+
 
 <!--
 **Daksh-Goel12/Daksh-Goel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
