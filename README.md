@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ### This is Daksh Goel 
-[LinkedIn](https://www.linkedin.com/in/daksh-goel12/)
+
 <!--
 **Daksh-Goel12/Daksh-Goel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
