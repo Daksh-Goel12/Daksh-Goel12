@@ -1,7 +1,6 @@
 ## Hi there 👋 
 # 💫 About Me:
-This is Daksh from India. I am an open-source enthusiast and a lifelong learner. I’m currently learning web development <br><br><br><br>
-
+This is Daksh from India. I am an open-source enthusiast and a lifelong learner. I’m currently learning web development <br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-goel12) 
 
