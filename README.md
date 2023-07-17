@@ -15,6 +15,4 @@ This is Daksh from India. I am an open-source enthusiast and a lifelong learner.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Daksh-Goel12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Daksh-Goel12&icon=0&color=0)](https://visitcount.itsvg.in)
 
