@@ -1,6 +1,12 @@
-## Hi there 👋 
-## 💫 About Me:
-This is Daksh from India. I am an open-source enthusiast and a lifelong learner. I’m currently learning web development <br>
+<h1 align="center">Hi 👋, I'm Daksh Goel.</h1>
+<h3 align="center">Open Source Enthusiast</h3>
+
+
+
+- 👀 I’m interested in **App Dev, Web Dev, Open Source & Git**
+- 🌱 I’m currently learning **Mern Stack**
+- 💞️ I’m looking to collaborate on **Open Source, Hackathons**
+- 📫 How to reach me **daksh.goel.122@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-goel12) 
 
