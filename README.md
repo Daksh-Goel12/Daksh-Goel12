@@ -6,7 +6,7 @@
 - 👀 I’m interested in **App Dev, Web Dev, Open Source & Git**
 - 🌱 I’m currently learning **Mern Stack**
 - 💞️ I’m looking to collaborate on **Open Source, Hackathons**
-- 📫 How to reach me **daksh.goel.122@gmail.com**
+- 📫 How to reach me **daksh.goel.43@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-goel12) 
 
